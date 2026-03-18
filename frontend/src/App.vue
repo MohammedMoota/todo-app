@@ -4,7 +4,7 @@ import TodoList from './components/TodoList.vue'
 </script>
 
 <template>
-  <main class="min-h-screen max-w-screen bg-linear-to-br from-blue-50 to-indigo-100 flex flex-col items-center py-16 px-4">
+  <main class="min-h-screen max-w-screen bg-gradient-to-br from-blue-50 to-indigo-100 flex flex-col items-center py-16 px-4">
 
     <header class="mb-10 text-center">
       <h1 class="text-4xl font-extrabold text-indigo-600 tracking-tight">📝 Todo App</h1>
